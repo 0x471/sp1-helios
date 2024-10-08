@@ -19,3 +19,6 @@ pgo-data.profdata
 
 # Generated inputs
 /script/examples/*
+
+# Generated proofs
+/data/
